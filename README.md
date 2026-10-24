@@ -279,12 +279,19 @@ of generalization.
 ## Performance
 
 Training records   100,000
+
 ROC-AUC             0.84 (0.837)
+
 Recall at 0.10 threshold   76%
+
 Precision at 0.10 threshold  23%
+
 Inference time   ~3.5 ms
+
 Unique foods   254
+
 Food attributes   12
+
 Trajectory length   120 min
 
 ## Limitations and responsible use
