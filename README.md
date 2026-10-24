@@ -276,6 +276,17 @@ Metrics should be computed from data that was not used to fit the model.
 Do not publish invented or training-only performance metrics as evidence
 of generalization.
 
+## Performance
+
+Training records   100,000
+ROC-AUC             0.84 (0.837)
+Recall at 0.10 threshold   76%
+Precision at 0.10 threshold  23%
+Inference time   ~3.5 ms
+Unique foods   254
+Food attributes   12
+Trajectory length   120 min
+
 ## Limitations and responsible use
 
 -   **Not a medical device:** this prototype has not been clinically
